@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.52",
-  "sha256": "2f47ec21a9a4b7ba190352e66cf0b594347ca9a805921ce489c855f9fb476582",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.52/UpdateExpress_v0.7.2.6.52.exe",
-  "publishedAt": "2026-11-09T21:34:02Z",
-  "releaseNotes": "Add WUA status report under WUA deep check to open latest or previous deep-check reports."
+  "publishedAt": "2026-11-09T21:38:04Z",
+  "sha256": "713cb2ac10d5528a4740c8b7168c9def2c5a3720cacc411f9d19769440a0a1d8",
+  "version": "0.7.2.6.53",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.53/UpdateExpress_v0.7.2.6.53.exe",
+  "releaseNotes": "Blinking bold red Reboot needed banner when Windows reports a pending restart."
 }

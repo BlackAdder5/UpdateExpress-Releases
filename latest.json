@@ -1,7 +1,7 @@
 {
-  "releaseNotes": "Align footer buttons on one row in Windows Update fix and Error report dialogs.",
-  "sha256": "171ca087b6b53acc748225fb7abd21b93d4064c1f6b6b7f6bb1d9e908304dd20",
+  "releaseNotes": "Fix dialog footer button alignment (override App.xaml button style).",
+  "version": "0.7.2.6.48",
   "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.48/UpdateExpress_v0.7.2.6.48.exe",
-  "publishedAt": "2026-11-09T20:44:23Z",
-  "version": "0.7.2.6.48"
+  "publishedAt": "2026-11-09T20:57:31Z",
+  "sha256": "4ab9b94fcb8ec681d85c1c320b4b14d8a5c0965c0272ea0cc75215f199ce4e44"
 }

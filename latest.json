@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.37/UpdateExpress_v0.7.2.6.37.exe",
-  "releaseNotes": "Phase 2a tray self-update: Install with SHA-256 verification. Opens main window after upgrade. No automatic restart.",
-  "publishedAt": "2026-11-09T17:38:21Z",
-  "sha256": "d0e4c3f285a582b0b5342b3960d55317ca9043a7adc14b44a76b2073e9e97a9a",
-  "version": "0.7.2.6.37"
+  "releaseNotes": "Windows automation B+C: Defender hourly auto-update, three-category policy UI. Critical/general prompts not automated yet. No auto-reboot.",
+  "publishedAt": "2026-11-09T18:12:44Z",
+  "sha256": "b3afb4d2da63befbaae7908dd5f4f9c5b5a4d407050e4efa9268e37fbda5a0be",
+  "version": "0.7.2.6.38",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.38/UpdateExpress_v0.7.2.6.38.exe"
 }

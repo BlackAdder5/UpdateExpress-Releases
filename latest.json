@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.35",
-  "publishedAt": "2026-11-09T16:00:00Z",
-  "releaseNotes": "Baseline channel for Update Express application update checks (Phase 1). No newer package is published yet.",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases",
-  "sha256": ""
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.36/UpdateExpress_v0.7.2.6.36.exe",
+  "version": "0.7.2.6.36",
+  "publishedAt": "2026-11-09T16:58:21Z",
+  "releaseNotes": "Phase 1 tray check for Update Express updates. Windows scan renamed. No automatic install.",
+  "sha256": "62c19c866a9d23729c7e25535857926b259119b1af4a4d971dbc08364981949b"
 }

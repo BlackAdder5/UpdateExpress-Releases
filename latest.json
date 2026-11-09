@@ -1,7 +1,1 @@
-{
-  "sha256": "2913dfd5ca2fe16d053152b9a79fee8b7c6bea4f0e32adae9edd2b7b234565e1",
-  "version": "0.7.2.6.41",
-  "releaseNotes": "Maintenance & Notifications panel is scrollable when expanded.",
-  "publishedAt": "2026-11-09T18:32:48Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.41/UpdateExpress_v0.7.2.6.41.exe"
-}
+{"releaseNotes":"Closes open Update Express on upgrade confirm; fixes Access Denied when MainWindow was open.","version":"0.7.2.6.42","sha256":"7e6c1351f4a7768b5f680849cbab4731eeb3c2248bf656243393899c1368a24f","downloadUrl":"https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.42/UpdateExpress_v0.7.2.6.42.exe"}

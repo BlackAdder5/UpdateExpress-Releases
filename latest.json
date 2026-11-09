@@ -1,7 +1,7 @@
 {
-  "sha256": "a7a7a69ad034a97ee24fb51884d34f9346ecf8c6666e5a196e8d97d934f60793",
-  "version": "0.7.2.6.39",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.39/UpdateExpress_v0.7.2.6.39.exe",
-  "publishedAt": "2026-11-09T18:25:04Z",
-  "releaseNotes": "Fix tray self-update failure (WPF Shutdown must run on UI thread). Includes Windows automation B+C."
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.40/UpdateExpress_v0.7.2.6.40.exe",
+  "publishedAt": "2026-11-09T18:29:12Z",
+  "releaseNotes": "Tray/toast notifications now use the orange U icon instead of the old M icon.",
+  "sha256": "4a5b46ef0195da8c33282879da6a2dee84f4d0971d5024c83d84670fe66690bb",
+  "version": "0.7.2.6.40"
 }

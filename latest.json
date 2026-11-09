@@ -1,7 +1,7 @@
 {
-  "releaseNotes": "Windows automation B+C: Defender hourly auto-update, three-category policy UI. Critical/general prompts not automated yet. No auto-reboot.",
-  "publishedAt": "2026-11-09T18:12:44Z",
-  "sha256": "b3afb4d2da63befbaae7908dd5f4f9c5b5a4d407050e4efa9268e37fbda5a0be",
-  "version": "0.7.2.6.38",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.38/UpdateExpress_v0.7.2.6.38.exe"
+  "sha256": "a7a7a69ad034a97ee24fb51884d34f9346ecf8c6666e5a196e8d97d934f60793",
+  "version": "0.7.2.6.39",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.39/UpdateExpress_v0.7.2.6.39.exe",
+  "publishedAt": "2026-11-09T18:25:04Z",
+  "releaseNotes": "Fix tray self-update failure (WPF Shutdown must run on UI thread). Includes Windows automation B+C."
 }

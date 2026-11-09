@@ -1,1 +1,7 @@
-{"sha256":"99ab1eff98a473ba89eaece4affcde74effbe8b4faed1c3f32d4d98ac5e57d58","downloadUrl":"https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.46/UpdateExpress_v0.7.2.6.46.exe","releaseNotes":"Auto self-update check on login/open; optional K2/K3 auto-reboot (confirm or outside hours), default off.","version":"0.7.2.6.46"}
+{
+  "sha256": "a9b4b0498b0132af6227d8310899daed44be03a6b724eb5230836468e5ec86a4",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.47/UpdateExpress_v0.7.2.6.47.exe",
+  "releaseNotes": "Priority column K1-K5 (Critical/Important/Moderate/Regular/Unknown), All WUA drivers default off, Windows Update fix (Quick/Medium/Deep) and Error report.",
+  "version": "0.7.2.6.47",
+  "publishedAt": "2026-11-09T20:35:59Z"
+}

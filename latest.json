@@ -1,7 +1,7 @@
 {
-  "releaseNotes": "Fix self-update: Yes no longer closes the app before download. Progress window during download/verify.",
-  "publishedAt": "2026-11-09T21:26:04Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.51/UpdateExpress_v0.7.2.6.51.exe",
-  "sha256": "7417751d47552896c6110309a2d58f95396375aa165e208fbc7086fae716c76d",
-  "version": "0.7.2.6.51"
+  "version": "0.7.2.6.52",
+  "sha256": "2f47ec21a9a4b7ba190352e66cf0b594347ca9a805921ce489c855f9fb476582",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.52/UpdateExpress_v0.7.2.6.52.exe",
+  "publishedAt": "2026-11-09T21:34:02Z",
+  "releaseNotes": "Add WUA status report under WUA deep check to open latest or previous deep-check reports."
 }

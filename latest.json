@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.49/UpdateExpress_v0.7.2.6.49.exe",
-  "publishedAt": "2026-11-09T21:09:00Z",
-  "version": "0.7.2.6.49",
-  "sha256": "084fd7e68c1a3038f6d6be9dd8f56882c47efd750efc6b96c63e94802443cab2",
-  "releaseNotes": "Pulsing Fix it for failed Windows Update error codes, curated HRESULT catalog, and recommended Quick/Medium/Deep fix actions."
+  "publishedAt": "2026-11-09T21:18:40Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.50/UpdateExpress_v0.7.2.6.50.exe",
+  "releaseNotes": "Add WUA deep check beside Windows Update fix: read-only network/service/WUA analysis with confirm dialog (~2-4 min) and copyable AI prompt.",
+  "version": "0.7.2.6.50",
+  "sha256": "8c2f8f0e85713f074cc030fbca3e8a5473d7d50967ab920960b8127e0e42b72e"
 }

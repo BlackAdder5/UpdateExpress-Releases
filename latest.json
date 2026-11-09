@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.40/UpdateExpress_v0.7.2.6.40.exe",
-  "publishedAt": "2026-11-09T18:29:12Z",
-  "releaseNotes": "Tray/toast notifications now use the orange U icon instead of the old M icon.",
-  "sha256": "4a5b46ef0195da8c33282879da6a2dee84f4d0971d5024c83d84670fe66690bb",
-  "version": "0.7.2.6.40"
+  "sha256": "2913dfd5ca2fe16d053152b9a79fee8b7c6bea4f0e32adae9edd2b7b234565e1",
+  "version": "0.7.2.6.41",
+  "releaseNotes": "Maintenance & Notifications panel is scrollable when expanded.",
+  "publishedAt": "2026-11-09T18:32:48Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.41/UpdateExpress_v0.7.2.6.41.exe"
 }

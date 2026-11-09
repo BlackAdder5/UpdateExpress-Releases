@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-09T21:18:40Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.50/UpdateExpress_v0.7.2.6.50.exe",
-  "releaseNotes": "Add WUA deep check beside Windows Update fix: read-only network/service/WUA analysis with confirm dialog (~2-4 min) and copyable AI prompt.",
-  "version": "0.7.2.6.50",
-  "sha256": "8c2f8f0e85713f074cc030fbca3e8a5473d7d50967ab920960b8127e0e42b72e"
+  "releaseNotes": "Fix self-update: Yes no longer closes the app before download. Progress window during download/verify.",
+  "publishedAt": "2026-11-09T21:26:04Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.51/UpdateExpress_v0.7.2.6.51.exe",
+  "sha256": "7417751d47552896c6110309a2d58f95396375aa165e208fbc7086fae716c76d",
+  "version": "0.7.2.6.51"
 }

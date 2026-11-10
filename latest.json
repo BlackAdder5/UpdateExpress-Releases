@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-10T13:22:13Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.57/UpdateExpress_v0.7.2.6.57.exe",
-  "releaseNotes": "Tray Settings holds language, 12/24-hour clock, and date format. Firmware stays listed when All WUA drivers is off, with Moderate priority, and is never selected automatically. Feature updates such as Windows 11 26H2 include Open Windows Update to install on the row. This PC is shown under Windows Update Control, and each value can be copied. WUA deep check reports end with a prompt for an AI chat. Quick and Medium check free disk space, then run sfc /scannow before resetting the Windows Update cache.",
-  "version": "0.7.2.6.57",
-  "sha256": "5926d514a182071015748a4af36e5a37a1e99bf1a9a6bcae0ead96a5ed240d8e"
+  "publishedAt": "2026-11-10T13:33:21Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.58/UpdateExpress_v0.7.2.6.58.exe",
+  "releaseNotes": "The copy control beside each PC identity value is now the two-page icon, at the same size as the proxy icon. Copy all remains a text button.",
+  "version": "0.7.2.6.58",
+  "sha256": "39dc103fd78d5595e9e4f56ec2a846c3a67de0766fb29ed34bf15022b6c9e06e"
 }

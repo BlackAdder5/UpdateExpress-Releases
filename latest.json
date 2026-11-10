@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-10T16:45:58Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.63/UpdateExpress_v0.7.2.6.63.exe",
-  "releaseNotes": "Update until current searches, downloads, and installs Windows software updates, restarts when Windows requires it, and repeats after sign-in until none remain. Drivers, firmware, and feature updates stay manual. The cycle stops after 8 rounds, or if the same updates are still offered after an install.",
-  "version": "0.7.2.6.63",
-  "sha256": "3bc8134d331a9b80a0e1a8a420dc890fedf67662540b4a07a8b91406cf840956"
+  "version": "0.7.2.6.64",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.64/UpdateExpress_v0.7.2.6.64.exe",
+  "sha256": "4ba3e7ae98e327fdd4a1797e213d0f133c6b781cf7876cdcd2c909b4068c08f4",
+  "publishedAt": "2026-11-10T17:52:31Z",
+  "releaseNotes": "Check for Updates, Install Selected Updates, and the four result tabs share one row at 27 px. The selected tab is dark blue with white text. Install Selected Updates turns red with white text while an installation is running. Windows version and build sit on the same line as Windows Update Status. Machine identity order is manufacturer, product number, model, then serial number. Manufacturer and uptime have no copy icon."
 }

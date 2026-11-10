@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-10T12:22:57Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.56/UpdateExpress_v0.7.2.6.56.exe",
-  "releaseNotes": "Windows feature updates such as 26H2 appear in Windows Updates when the PC has no safeguard hold. Open Windows Update in Settings to install them. Update Express cannot install that offer itself.",
-  "version": "0.7.2.6.56",
-  "sha256": "842241933b8b80720cc3a16d4376c770d0a8fd7ca342fe01b30bc485cd3f49b0"
+  "publishedAt": "2026-11-10T13:22:13Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.57/UpdateExpress_v0.7.2.6.57.exe",
+  "releaseNotes": "Tray Settings holds language, 12/24-hour clock, and date format. Firmware stays listed when All WUA drivers is off, with Moderate priority, and is never selected automatically. Feature updates such as Windows 11 26H2 include Open Windows Update to install on the row. This PC is shown under Windows Update Control, and each value can be copied. WUA deep check reports end with a prompt for an AI chat. Quick and Medium check free disk space, then run sfc /scannow before resetting the Windows Update cache.",
+  "version": "0.7.2.6.57",
+  "sha256": "5926d514a182071015748a4af36e5a37a1e99bf1a9a6bcae0ead96a5ed240d8e"
 }

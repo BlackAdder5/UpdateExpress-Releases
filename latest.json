@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-10T13:45:08Z",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.59/UpdateExpress_v0.7.2.6.59.exe",
-  "releaseNotes": "The reboot banner alternates between Reboot needed and Click here to reboot. Clicking it asks for confirmation before the computer restarts.",
-  "version": "0.7.2.6.59",
-  "sha256": "2d50e480b7170d04180013adc4df38984df26057c218e8c2a8ee6bddcc12baf6"
+  "sha256": "ca6f03b4d5a611e9e9b392851393fd40fcea810b341db46e06931dfce1f167d9",
+  "version": "0.7.2.6.60",
+  "publishedAt": "2026-11-10T14:12:22Z",
+  "releaseNotes": "Priority column uses plain Critical/Important/Moderate/Optional/Unrated/Unknown labels. Installation Manager Status column is wider with centered text.",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.60/UpdateExpress_v0.7.2.6.60.exe"
 }

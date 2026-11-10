@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-09T21:38:04Z",
-  "sha256": "713cb2ac10d5528a4740c8b7168c9def2c5a3720cacc411f9d19769440a0a1d8",
-  "version": "0.7.2.6.53",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.53/UpdateExpress_v0.7.2.6.53.exe",
-  "releaseNotes": "Blinking bold red Reboot needed banner when Windows reports a pending restart."
+  "publishedAt": "2026-11-10T07:26:36Z",
+  "sha256": "ce0dfd64298254c701ea126e8a30a5a238105c3497c9739b9b3a7e6c3d83f11b",
+  "releaseNotes": "History is kept when a Windows Update fix resets the cache. Defender signature history shows Moderate (K3). Firmware can be installed manually. History PDF shows Error: none and a bold closing status.",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.54/UpdateExpress_v0.7.2.6.54.exe",
+  "version": "0.7.2.6.54"
 }

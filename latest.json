@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.64",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.64/UpdateExpress_v0.7.2.6.64.exe",
-  "sha256": "4ba3e7ae98e327fdd4a1797e213d0f133c6b781cf7876cdcd2c909b4068c08f4",
-  "publishedAt": "2026-11-10T17:52:31Z",
-  "releaseNotes": "Check for Updates, Install Selected Updates, and the four result tabs share one row at 27 px. The selected tab is dark blue with white text. Install Selected Updates turns red with white text while an installation is running. Windows version and build sit on the same line as Windows Update Status. Machine identity order is manufacturer, product number, model, then serial number. Manufacturer and uptime have no copy icon."
+  "version": "0.7.2.6.65",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.65/UpdateExpress_v0.7.2.6.65.exe",
+  "sha256": "6366e512c562e2c4d024354a324c367aada88562dcea2d3ee7d225e64826ac4a",
+  "publishedAt": "2026-11-10T18:01:14Z",
+  "releaseNotes": "Self-update no longer posts a tray notice for each install stage. Those notices were queued by Windows and kept appearing after the new version had already started."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.55",
-  "releaseNotes": "Installed updates that History already shows as successful are removed from Windows Updates without another Check for updates. Defender signatures are matched by version, so a newer signature still stays in the list.",
-  "publishedAt": "2026-11-10T12:02:45Z",
-  "sha256": "a077ef27ac443a256d192da4e588f65ea2239f5969aaa17d76feae60638caa13",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.55/UpdateExpress_v0.7.2.6.55.exe"
+  "publishedAt": "2026-11-10T12:22:57Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.56/UpdateExpress_v0.7.2.6.56.exe",
+  "releaseNotes": "Windows feature updates such as 26H2 appear in Windows Updates when the PC has no safeguard hold. Open Windows Update in Settings to install them. Update Express cannot install that offer itself.",
+  "version": "0.7.2.6.56",
+  "sha256": "842241933b8b80720cc3a16d4376c770d0a8fd7ca342fe01b30bc485cd3f49b0"
 }

@@ -1,7 +1,7 @@
 {
-  "publishedAt": "2026-11-10T07:26:36Z",
-  "sha256": "ce0dfd64298254c701ea126e8a30a5a238105c3497c9739b9b3a7e6c3d83f11b",
-  "releaseNotes": "History is kept when a Windows Update fix resets the cache. Defender signature history shows Moderate (K3). Firmware can be installed manually. History PDF shows Error: none and a bold closing status.",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.54/UpdateExpress_v0.7.2.6.54.exe",
-  "version": "0.7.2.6.54"
+  "version": "0.7.2.6.55",
+  "releaseNotes": "Installed updates that History already shows as successful are removed from Windows Updates without another Check for updates. Defender signatures are matched by version, so a newer signature still stays in the list.",
+  "publishedAt": "2026-11-10T12:02:45Z",
+  "sha256": "a077ef27ac443a256d192da4e588f65ea2239f5969aaa17d76feae60638caa13",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.55/UpdateExpress_v0.7.2.6.55.exe"
 }

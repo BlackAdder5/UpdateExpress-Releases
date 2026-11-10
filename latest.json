@@ -1,7 +1,7 @@
 {
-  "sha256": "ca6f03b4d5a611e9e9b392851393fd40fcea810b341db46e06931dfce1f167d9",
-  "version": "0.7.2.6.60",
-  "publishedAt": "2026-11-10T14:12:22Z",
-  "releaseNotes": "Priority column uses plain Critical/Important/Moderate/Optional/Unrated/Unknown labels. Installation Manager Status column is wider with centered text.",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.60/UpdateExpress_v0.7.2.6.60.exe"
+  "publishedAt": "2026-11-10T15:48:40Z",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.61/UpdateExpress_v0.7.2.6.61.exe",
+  "releaseNotes": "A PC that has been running for 7 days or more shows a separate restart suggestion. It does not blink, and it stays hidden while Windows reports that a restart is required. Uptime is shown after the device name. Windows Update Control and Results can be collapsed. Installation Manager shows each selected update while it downloads, then while it installs. A failed history row is hidden when the same update already succeeded. Hide removes it from this overview only. Install again runs when Windows still offers that update. The Install button returns to its label after history finishes loading.",
+  "version": "0.7.2.6.61",
+  "sha256": "47d637ec232584b5128f32f6e168f57ad4b34b63b595f122768d92d122264a56"
 }

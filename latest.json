@@ -1,8 +1,7 @@
 {
-  "version": "0.7.2.6.76",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.76/UpdateExpress_v0.7.2.6.76.exe",
-  "sha256": "22ece6fc20de475ba0044f520256ec0ecdda1525804635767aaf8ce172fe91c4",
-  "publishedAt": "2026-11-11T21:26:35Z",
-  "releaseNotes": "Transparent MicroSystems header banner. Logo MicroSystemsBanner.png with real alpha on light chrome; Height 100 Uniform. Left orange M unchanged. Built from full feature tip c13a821 (stacked on Drivers/Apps automatic .75 + Bitdefender ATC .74)."
+  "version": "0.7.2.6.77",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.77/UpdateExpress_v0.7.2.6.77.exe",
+  "sha256": "40cb65946b9070c84fd4406918e34ddce93a1c37517fa9fcd38ffeb7cf2b05e1",
+  "publishedAt": "2026-11-11T22:08:46Z",
+  "releaseNotes": "Self-update dialog buttons/title/body/legend via AppLanguage string table (ReminderSchedule.Language). No OS MessageBox; no hardcoded Yes/No/Cancel. Built from full feature tip e3a69b0 (stacked on transparent logo .76 + Drivers/Apps .75 + Bitdefender ATC .74)."
 }
-

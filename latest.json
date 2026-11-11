@@ -1,7 +1,8 @@
 {
-  "publishedAt": "2026-11-11T09:17:27Z",
-  "releaseNotes": "Update-until-current fixes on recovered .65 UI + transparent logo: cancel reboot on stop, busy guard during cycle, non-reentrant runner, clear resume throttle on start.",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.70/UpdateExpress_v0.7.2.6.70.exe",
-  "sha256": "773eb3113b2f5ef5711f86f0f6df5e1134b0c90c6a678afe2450c4426fbba56e",
-  "version": "0.7.2.6.70"
+  "version": "0.7.2.6.71",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.71/UpdateExpress_v0.7.2.6.71.exe",
+  "sha256": "16fa8f4273ea8aceda8cb7fd11298800b638c39e92c08dcb208418a789392f30",
+  "publishedAt": "2026-11-11T20:24:10Z",
+  "releaseNotes": "Self-update dialog follows app language (Norsk/English) for title, body, and buttons — no more English body with OS Ja/Nei/Avbryt. Built on recovered .65 UI + transparent logo + update-until-current fixes."
 }
+

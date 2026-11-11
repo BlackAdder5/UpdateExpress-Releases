@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.66",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.66/UpdateExpress_v0.7.2.6.66.exe",
-  "sha256": "96bddafe3fd566b4f99711c6c6eb84c20ff9e2d8fb6557a54545437798ad3b95",
-  "publishedAt": "2026-11-11T07:23:36Z",
-  "releaseNotes": "MADE IN SARP logo: MicroSystems header banner replaced with MADE IN SARP artwork (Uniform scaling; dark slate panel removed). App icon / orange U tray branding unchanged."
+  "version": "0.7.2.6.67",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.67/UpdateExpress_v0.7.2.6.67.exe",
+  "sha256": "8f7dfdb012e0cd3f5a5d552c5fec02d8a7b9443c55b31a30e4cc9be48bbca03d",
+  "publishedAt": "2026-11-11T07:35:12Z",
+  "releaseNotes": "MicroSystems.one logo: MADE IN SARP header banner replaced with MicroSystems.one artwork (Uniform scaling). App icon / orange U tray branding unchanged."
 }

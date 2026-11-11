@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.68",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.68/UpdateExpress_v0.7.2.6.68.exe",
-  "sha256": "fbfd471fbc1fe025d080b5ae1b6d6f9c0fce5f7f67a88e57d5a1e1ece6f56e95",
-  "publishedAt": "2026-11-11T08:20:33Z",
-  "releaseNotes": "Transparent MicroSystems.one logo: header banner replaced with transparent RGBA PNG (Uniform scaling). App icon / orange U tray branding unchanged."
+  "version": "0.7.2.6.69",
+  "sha256": "8649ad61c84ed033285c2ed843e240e57ae63e41da8d57e2185676e6dc428120",
+  "publishedAt": "2026-11-11T09:13:12Z",
+  "releaseNotes": "Recover .61–.65 feature UI (multi-panel collapse, Health Check / Results wording, update-until-current) and re-apply transparent MicroSystems.one logo on that base. App icon / orange U tray branding unchanged.",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.69/UpdateExpress_v0.7.2.6.69.exe"
 }

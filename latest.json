@@ -1,7 +1,8 @@
 {
-  "version": "0.7.2.6.74",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.74/UpdateExpress_v0.7.2.6.74.exe",
-  "sha256": "e579ebcc11d0c014babcb6f9dbf9a19e41704eea6edf2d9349d37cd016baa3fd",
-  "publishedAt": "2026-11-11T21:05:40Z",
-  "releaseNotes": "Bitdefender ATC / Access Denied on maintenance: clearer Norwegian quarantine guidance; retry File.Copy/delete/icon write also on UnauthorizedAccessException with longer backoff. Recommend folder exclusions for %LOCALAPPDATA%\\MicroSystems\\Update Express\\ (filename-only is not enough for ATC). Built from full feature tip ee9b971 (stacked on history-dedupe .73 / searching-button .72)."
+  "version": "0.7.2.6.75",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.75/UpdateExpress_v0.7.2.6.75.exe",
+  "sha256": "3791d7b038ccafc12561b7bba2d3775c23b2649cc1a5c163572ea3abc46a1f9e",
+  "publishedAt": "2026-11-11T21:17:36Z",
+  "releaseNotes": "Drivers / Applications automatic: live checkboxes download assigned WUA drivers or WinGet upgrades on the Critical schedule, then ask before elevated install. Firmware stays manual. Helpers: --apply-drivers-install / --apply-applications-install. Built from full feature tip 069f96e (stacked on Bitdefender ATC .74 / history-dedupe .73)."
 }
+

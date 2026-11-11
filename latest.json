@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.73",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.73/UpdateExpress_v0.7.2.6.73.exe",
-  "sha256": "cc870c6c572257cdb00d2d89d6b435ef34246187a84ae7d97155c4eb09a4fbc6",
-  "publishedAt": "2026-11-11T20:44:33Z",
-  "releaseNotes": "Deduplicate identical History rows: collapse fully identical update entries into one (keep newest Date). Identity key is title + KB + Version + Status; distinct versions stay separate. Built from full feature tip 77f2d4a (stacked on searching-button .72 / dialog-language .71)."
+  "version": "0.7.2.6.74",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.74/UpdateExpress_v0.7.2.6.74.exe",
+  "sha256": "e579ebcc11d0c014babcb6f9dbf9a19e41704eea6edf2d9349d37cd016baa3fd",
+  "publishedAt": "2026-11-11T21:05:40Z",
+  "releaseNotes": "Bitdefender ATC / Access Denied on maintenance: clearer Norwegian quarantine guidance; retry File.Copy/delete/icon write also on UnauthorizedAccessException with longer backoff. Recommend folder exclusions for %LOCALAPPDATA%\\MicroSystems\\Update Express\\ (filename-only is not enough for ATC). Built from full feature tip ee9b971 (stacked on history-dedupe .73 / searching-button .72)."
 }

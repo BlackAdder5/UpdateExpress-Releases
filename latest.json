@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.65",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.65/UpdateExpress_v0.7.2.6.65.exe",
-  "sha256": "6366e512c562e2c4d024354a324c367aada88562dcea2d3ee7d225e64826ac4a",
-  "publishedAt": "2026-11-10T18:01:14Z",
-  "releaseNotes": "Self-update no longer posts a tray notice for each install stage. Those notices were queued by Windows and kept appearing after the new version had already started."
+  "version": "0.7.2.6.66",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.66/UpdateExpress_v0.7.2.6.66.exe",
+  "sha256": "96bddafe3fd566b4f99711c6c6eb84c20ff9e2d8fb6557a54545437798ad3b95",
+  "publishedAt": "2026-11-11T07:23:36Z",
+  "releaseNotes": "MADE IN SARP logo: MicroSystems header banner replaced with MADE IN SARP artwork (Uniform scaling; dark slate panel removed). App icon / orange U tray branding unchanged."
 }

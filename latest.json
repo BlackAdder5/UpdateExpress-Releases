@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.72",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.72/UpdateExpress_v0.7.2.6.72.exe",
-  "sha256": "6fd78c5cc62825961db322dd4b8ed5aba5d1e08c5ebff05b2f0faeeb3fbff602",
-  "publishedAt": "2026-11-11T20:34:41Z",
-  "releaseNotes": "Check for Updates button shows Searching.... / Søker.... while scanning instead of orange status text beside the button. Built from full feature tree tip a2e5966 (stacked on dialog-language .71 / recover UI)."
+  "version": "0.7.2.6.73",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.73/UpdateExpress_v0.7.2.6.73.exe",
+  "sha256": "cc870c6c572257cdb00d2d89d6b435ef34246187a84ae7d97155c4eb09a4fbc6",
+  "publishedAt": "2026-11-11T20:44:33Z",
+  "releaseNotes": "Deduplicate identical History rows: collapse fully identical update entries into one (keep newest Date). Identity key is title + KB + Version + Status; distinct versions stay separate. Built from full feature tip 77f2d4a (stacked on searching-button .72 / dialog-language .71)."
 }

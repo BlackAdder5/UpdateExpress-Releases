@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.69",
-  "sha256": "8649ad61c84ed033285c2ed843e240e57ae63e41da8d57e2185676e6dc428120",
-  "publishedAt": "2026-11-11T09:13:12Z",
-  "releaseNotes": "Recover .61–.65 feature UI (multi-panel collapse, Health Check / Results wording, update-until-current) and re-apply transparent MicroSystems.one logo on that base. App icon / orange U tray branding unchanged.",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.69/UpdateExpress_v0.7.2.6.69.exe"
+  "publishedAt": "2026-11-11T09:17:27Z",
+  "releaseNotes": "Update-until-current fixes on recovered .65 UI + transparent logo: cancel reboot on stop, busy guard during cycle, non-reentrant runner, clear resume throttle on start.",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.70/UpdateExpress_v0.7.2.6.70.exe",
+  "sha256": "773eb3113b2f5ef5711f86f0f6df5e1134b0c90c6a678afe2450c4426fbba56e",
+  "version": "0.7.2.6.70"
 }

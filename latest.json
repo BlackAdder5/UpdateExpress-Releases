@@ -1,7 +1,7 @@
 {
   "version": "0.7.2.6.78",
   "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.78/UpdateExpress_v0.7.2.6.78.exe",
-  "sha256": "16dc6ba33935f1c733db5d894ddc27fce2c70dd95205d442b378dab6c33fea8d",
-  "publishedAt": "2026-11-11T22:20:03Z",
-  "releaseNotes": "Installation Manager Not verified / UpdateId match fix. WUA results include UpdateId; MatchInstallResult UpdateId->KB->title->index; verify reconcile + localized Completed/Not verified/timeout. Built from full feature tip 1040e4d (PR #14 stacked on .77 dialog language + .76 logo + .75 Drivers/Apps + .74 Bitdefender ATC)."
+  "sha256": "9c63e048ddd48e767c768f8ab5eda0953bcbf1e81f41ed3254ec87e8386ab94a",
+  "publishedAt": "2026-11-11T22:23:13Z",
+  "releaseNotes": "Installation Manager Not verified / UpdateId match fix. WUA results include UpdateId; MatchInstallResult UpdateId->KB->title->index (positional only when both lack UpdateId); soft-timeout STA drain. Built from full feature tip dc5a3fb (PR #14 stacked on .77 dialog language + .76 logo + .75 Drivers/Apps + .74 Bitdefender ATC)."
 }

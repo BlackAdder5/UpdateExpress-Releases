@@ -1,8 +1,8 @@
 {
   "version": "0.7.2.6.75",
   "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.75/UpdateExpress_v0.7.2.6.75.exe",
-  "sha256": "3791d7b038ccafc12561b7bba2d3775c23b2649cc1a5c163572ea3abc46a1f9e",
-  "publishedAt": "2026-11-11T21:17:36Z",
-  "releaseNotes": "Drivers / Applications automatic: live checkboxes download assigned WUA drivers or WinGet upgrades on the Critical schedule, then ask before elevated install. Firmware stays manual. Helpers: --apply-drivers-install / --apply-applications-install. Built from full feature tip 069f96e (stacked on Bitdefender ATC .74 / history-dedupe .73)."
+  "sha256": "b8ac55e62a9569bb096f99ad550bf1febdbcf9c8d3349f32076539bdf28d94e2",
+  "publishedAt": "2026-11-11T21:19:53Z",
+  "releaseNotes": "Drivers / Applications automatic: live checkboxes download assigned WUA drivers or WinGet upgrades on the Critical schedule, then ask before elevated install. Firmware stays manual. Helpers: --apply-drivers-install / --apply-applications-install with validated --automation-state-dir; stuck installing clears to awaitingPrompt after 90 min. Built from full feature tip 580b497 (stacked on Bitdefender ATC .74)."
 }
 

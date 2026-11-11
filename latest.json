@@ -1,7 +1,8 @@
 {
-  "version": "0.7.2.6.77",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.77/UpdateExpress_v0.7.2.6.77.exe",
-  "sha256": "40cb65946b9070c84fd4406918e34ddce93a1c37517fa9fcd38ffeb7cf2b05e1",
-  "publishedAt": "2026-11-11T22:08:46Z",
-  "releaseNotes": "Self-update dialog buttons/title/body/legend via AppLanguage string table (ReminderSchedule.Language). No OS MessageBox; no hardcoded Yes/No/Cancel. Built from full feature tip e3a69b0 (stacked on transparent logo .76 + Drivers/Apps .75 + Bitdefender ATC .74)."
+  "version": "0.7.2.6.78",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.78/UpdateExpress_v0.7.2.6.78.exe",
+  "sha256": "16dc6ba33935f1c733db5d894ddc27fce2c70dd95205d442b378dab6c33fea8d",
+  "publishedAt": "2026-11-11T22:20:03Z",
+  "releaseNotes": "Installation Manager Not verified / UpdateId match fix. WUA results include UpdateId; MatchInstallResult UpdateId→KB→title→index; verify reconcile + localized Completed/Not verified/timeout. Built from full feature tip 1040e4d (PR #14 stacked on .77 dialog language + .76 logo + .75 Drivers/Apps + .74 Bitdefender ATC)."
 }
+

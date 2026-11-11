@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2.6.75",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.75/UpdateExpress_v0.7.2.6.75.exe",
-  "sha256": "b8ac55e62a9569bb096f99ad550bf1febdbcf9c8d3349f32076539bdf28d94e2",
-  "publishedAt": "2026-11-11T21:19:53Z",
-  "releaseNotes": "Drivers / Applications automatic: live checkboxes download assigned WUA drivers or WinGet upgrades on the Critical schedule, then ask before elevated install. Firmware stays manual. Helpers: --apply-drivers-install / --apply-applications-install with validated --automation-state-dir; stuck installing clears to awaitingPrompt after 90 min. Built from full feature tip 580b497 (stacked on Bitdefender ATC .74)."
+  "version": "0.7.2.6.76",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.76/UpdateExpress_v0.7.2.6.76.exe",
+  "sha256": "22ece6fc20de475ba0044f520256ec0ecdda1525804635767aaf8ce172fe91c4",
+  "publishedAt": "2026-11-11T21:26:35Z",
+  "releaseNotes": "Transparent MicroSystems header banner. Logo MicroSystemsBanner.png with real alpha on light chrome; Height 100 Uniform. Left orange M unchanged. Built from full feature tip c13a821 (stacked on Drivers/Apps automatic .75 + Bitdefender ATC .74)."
 }
 

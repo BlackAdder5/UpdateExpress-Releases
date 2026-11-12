@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.88",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.88/UpdateExpress_v0.7.2.6.88.exe",
-  "sha256": "223c016d46982352b0f7f51f854fbece2e2ea216800938fc1f07c1f6fce374c2",
-  "publishedAt": "2026-11-12T10:55:36Z",
-  "releaseNotes": "More space between Select All and Check for Updates. Tip b1dfe43 (PR #18)."
+  "version": "0.7.2.6.89",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.89/UpdateExpress_v0.7.2.6.89.exe",
+  "sha256": "6b06099ce958e247c5d82b0afcc1411659dcfe204ba3e954002eb05d0d845b9d",
+  "publishedAt": "2026-11-12T10:58:16Z",
+  "releaseNotes": "MicroSystems header logo 25% smaller. Tip df9a2f4 (PR #18)."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.91",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.91/UpdateExpress_v0.7.2.6.91.exe",
-  "sha256": "10b5a5ea71cdd5a1945a78130682cbbbbdd9578ad301e2698799ec787d586d5f",
-  "publishedAt": "2026-11-12T11:09:13Z",
-  "releaseNotes": "Modern AppDialog for install and confirm prompts. Tip 91b0711 (PR #18)."
+  "version": "0.7.2.6.92",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.92/UpdateExpress_v0.7.2.6.92.exe",
+  "sha256": "60192067a2412f2a565d7586368f894f7c732a390404f3f7ce535a3e9d90b5a0",
+  "publishedAt": "2026-11-12T11:14:48Z",
+  "releaseNotes": "Self-update AppDialog; fix OK button clipping. Tip 1588cb7 (PR #18)."
 }

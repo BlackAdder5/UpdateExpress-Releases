@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.94",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.94/UpdateExpress_v0.7.2.6.94.exe",
-  "sha256": "50dab016ab323d0e6546a0b3a6aec065b4112143d7efb100d4c7d5b9c05412a8",
-  "publishedAt": "2026-11-12T11:37:27Z",
-  "releaseNotes": "FIX IT / CLICK IT header icon alternation every 1.5s. Tip ea36364 (PR #19)."
+  "version": "0.7.2.6.95",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.95/UpdateExpress_v0.7.2.6.95.exe",
+  "sha256": "de39760530398983ed0c6070871c63204850b55bc85b616b4348a0e9fa90151c",
+  "publishedAt": "2026-11-12T11:43:45Z",
+  "releaseNotes": "Keep a single desktop shortcut across updates. Tip 75bac9a (PR #19)."
 }

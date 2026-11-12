@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.85",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.85/UpdateExpress_v0.7.2.6.85.exe",
-  "sha256": "c4ac852489414ff689e65d756f1d307caee8df71a61e704fdb30633e791699bb",
-  "publishedAt": "2026-11-12T10:38:40Z",
-  "releaseNotes": "History Date/Time follows Settings date format and clock. Built from tip ff7820f (PR #18)."
+  "version": "0.7.2.6.86",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.86/UpdateExpress_v0.7.2.6.86.exe",
+  "sha256": "bbbbbb6d6da3550c972d31a2dd3229de536648028f3f8fd19fc334480cc3fe26",
+  "publishedAt": "2026-11-12T10:41:53Z",
+  "releaseNotes": "History Date/Time Settings format (display-only); chronological sort preserved. Tip 90f7c08 (PR #18)."
 }

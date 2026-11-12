@@ -1,7 +1,7 @@
 {
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.79/UpdateExpress_v0.7.2.6.79.exe",
-  "version": "0.7.2.6.79",
-  "publishedAt": "2026-11-12T07:01:15Z",
-  "releaseNotes": "Installation Manager: trust WUA installer success as Completed despite catalog lag (PowerShell LTS / KB-less). Finish no longer demotes Verifying to Not verified. Soft notice when still offered. MatchInstallResult title trim + single-result only when requestedCount==1 (Codex P2). Built from full feature tip 577096e (stacked on .78/.77/.76/.75/.74).",
-  "sha256": "174bdd9dfce37033d3cbc1ef7f099a373ae8e20a678312284aa0b4bfe9038e41"
+  "version": "0.7.2.6.80",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.80/UpdateExpress_v0.7.2.6.80.exe",
+  "sha256": "6ebd95414ba8efb7a9814c088a320a4fd33af5ef2ada65ecf9de01664d0af9fa",
+  "publishedAt": "2026-11-12T08:37:04Z",
+  "releaseNotes": "Applications auto-check every 4h (floor 60m) + main UI sync via winget-available cache; clear available after successful WinGet/IM install+rescan. Ask-before-install unchanged. Codex P2 atomic cache. Built from full feature tip d48566a (PR #16 stacked on .79/.78/.77/.76/.75/.74)."
 }

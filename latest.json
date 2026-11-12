@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.82",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.82/UpdateExpress_v0.7.2.6.82.exe",
-  "sha256": "2af475d96b30e6d432f180bfa6386b5b4c96fa02cd5a3c67493381004ce83d25",
-  "publishedAt": "2026-11-12T10:21:59Z",
-  "releaseNotes": "Defender button label shortened to Refresh (NO: Oppdater). Includes FIX IT! repair page from .81. Built from tip 4e26085 (PR #17)."
+  "version": "0.7.2.6.83",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.83/UpdateExpress_v0.7.2.6.83.exe",
+  "sha256": "105e9573fb970ebb1e354baf802db7d81ba612fe8963f54ff91d78d8b3845200",
+  "publishedAt": "2026-11-12T10:23:45Z",
+  "releaseNotes": "Defender status moved onto Health Check header line. Includes FIX IT! page + Refresh label. Built from tip 6d07a0d (PR #17)."
 }

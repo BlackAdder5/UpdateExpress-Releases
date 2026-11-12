@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.86",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.86/UpdateExpress_v0.7.2.6.86.exe",
-  "sha256": "bbbbbb6d6da3550c972d31a2dd3229de536648028f3f8fd19fc334480cc3fe26",
-  "publishedAt": "2026-11-12T10:41:53Z",
-  "releaseNotes": "History Date/Time Settings format (display-only); chronological sort preserved. Tip 90f7c08 (PR #18)."
+  "version": "0.7.2.6.87",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.87/UpdateExpress_v0.7.2.6.87.exe",
+  "sha256": "d3e0a5b4f619962c808489d62abb8d6920916ff972e5022db3deb184d7b2408c",
+  "publishedAt": "2026-11-12T10:50:40Z",
+  "releaseNotes": "Center result tabs; left Select All; Applications before Drivers. Tip b0f51ef (PR #18)."
 }

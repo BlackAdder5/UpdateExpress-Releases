@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.83",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.83/UpdateExpress_v0.7.2.6.83.exe",
-  "sha256": "105e9573fb970ebb1e354baf802db7d81ba612fe8963f54ff91d78d8b3845200",
-  "publishedAt": "2026-11-12T10:23:45Z",
-  "releaseNotes": "Defender status moved onto Health Check header line. Includes FIX IT! page + Refresh label. Built from tip 6d07a0d (PR #17)."
+  "version": "0.7.2.6.84",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.84/UpdateExpress_v0.7.2.6.84.exe",
+  "sha256": "1a77e793a5b02e261e5766dd1bf3c6dea9b158e6124bde7914ec0e13f9d20bb6",
+  "publishedAt": "2026-11-12T10:28:30Z",
+  "releaseNotes": "Auto-close update success dialog after 10s; FIX IT Close contrast. Includes FIX IT! page + Defender header. Built from tip 2b992ad (PR #17)."
 }

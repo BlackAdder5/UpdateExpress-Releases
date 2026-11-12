@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.90",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.90/UpdateExpress_v0.7.2.6.90.exe",
-  "sha256": "3c9a2bd447354e89902cfdd76573f4be4d58d6113bc655782644c9ed0d63ae1a",
-  "publishedAt": "2026-11-12T11:02:37Z",
-  "releaseNotes": "Transparent Update Express U application icon. Tip 48ea549 (PR #18)."
+  "version": "0.7.2.6.91",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.91/UpdateExpress_v0.7.2.6.91.exe",
+  "sha256": "10b5a5ea71cdd5a1945a78130682cbbbbdd9578ad301e2698799ec787d586d5f",
+  "publishedAt": "2026-11-12T11:09:13Z",
+  "releaseNotes": "Modern AppDialog for install and confirm prompts. Tip 91b0711 (PR #18)."
 }

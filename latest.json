@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.84",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.84/UpdateExpress_v0.7.2.6.84.exe",
-  "sha256": "1a77e793a5b02e261e5766dd1bf3c6dea9b158e6124bde7914ec0e13f9d20bb6",
-  "publishedAt": "2026-11-12T10:28:30Z",
-  "releaseNotes": "Auto-close update success dialog after 10s; FIX IT Close contrast. Includes FIX IT! page + Defender header. Built from tip 2b992ad (PR #17)."
+  "version": "0.7.2.6.85",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.85/UpdateExpress_v0.7.2.6.85.exe",
+  "sha256": "c4ac852489414ff689e65d756f1d307caee8df71a61e704fdb30633e791699bb",
+  "publishedAt": "2026-11-12T10:38:40Z",
+  "releaseNotes": "History Date/Time follows Settings date format and clock. Built from tip ff7820f (PR #18)."
 }

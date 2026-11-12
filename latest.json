@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.79",
   "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.79/UpdateExpress_v0.7.2.6.79.exe",
-  "sha256": "1badf927d047ee2406db8ed81a8db8c07d9b9868f2bfe6649c1dfce1c2c085a0",
-  "publishedAt": "2026-11-12T06:57:17Z",
-  "releaseNotes": "Installation Manager: trust WUA installer success as Completed despite catalog lag (PowerShell LTS / KB-less). Finish no longer demotes Verifying to Not verified. Soft notice when still offered. MatchInstallResult title trim + single-result fallback. Built from full feature tip b50a852 (stacked on .78/.77/.76/.75/.74)."
+  "version": "0.7.2.6.79",
+  "publishedAt": "2026-11-12T07:01:15Z",
+  "releaseNotes": "Installation Manager: trust WUA installer success as Completed despite catalog lag (PowerShell LTS / KB-less). Finish no longer demotes Verifying to Not verified. Soft notice when still offered. MatchInstallResult title trim + single-result only when requestedCount==1 (Codex P2). Built from full feature tip 577096e (stacked on .78/.77/.76/.75/.74).",
+  "sha256": "174bdd9dfce37033d3cbc1ef7f099a373ae8e20a678312284aa0b4bfe9038e41"
 }

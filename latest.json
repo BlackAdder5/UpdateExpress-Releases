@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.78",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.78/UpdateExpress_v0.7.2.6.78.exe",
-  "sha256": "9c63e048ddd48e767c768f8ab5eda0953bcbf1e81f41ed3254ec87e8386ab94a",
-  "publishedAt": "2026-11-11T22:23:13Z",
-  "releaseNotes": "Installation Manager Not verified / UpdateId match fix. WUA results include UpdateId; MatchInstallResult UpdateId->KB->title->index (positional only when both lack UpdateId); soft-timeout STA drain. Built from full feature tip dc5a3fb (PR #14 stacked on .77 dialog language + .76 logo + .75 Drivers/Apps + .74 Bitdefender ATC)."
+  "version": "0.7.2.6.79",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.79/UpdateExpress_v0.7.2.6.79.exe",
+  "sha256": "1badf927d047ee2406db8ed81a8db8c07d9b9868f2bfe6649c1dfce1c2c085a0",
+  "publishedAt": "2026-11-12T06:57:17Z",
+  "releaseNotes": "Installation Manager: trust WUA installer success as Completed despite catalog lag (PowerShell LTS / KB-less). Finish no longer demotes Verifying to Not verified. Soft notice when still offered. MatchInstallResult title trim + single-result fallback. Built from full feature tip b50a852 (stacked on .78/.77/.76/.75/.74)."
 }

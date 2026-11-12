@@ -1,7 +1,7 @@
 {
-  "version": "0.7.2.6.81",
-  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.81/UpdateExpress_v0.7.2.6.81.exe",
-  "sha256": "6ca347e21103688e7a1d4b4e8d035a539193496bd60f2ac4bd7a43f988d1cdfe",
-  "publishedAt": "2026-11-12T10:16:25Z",
-  "releaseNotes": "FIX IT! 64x64 header icon opens Windows Update repair page; moved fix/deep-check/history/CSV/error/WUA-status/diagnostics/Check Status there. Built from full feature tip b047c74 (PR #17 on .80/.79/.78/.77/.76/.75/.74)."
+  "version": "0.7.2.6.82",
+  "downloadUrl": "https://github.com/BlackAdder5/UpdateExpress-Releases/releases/download/v0.7.2.6.82/UpdateExpress_v0.7.2.6.82.exe",
+  "sha256": "2af475d96b30e6d432f180bfa6386b5b4c96fa02cd5a3c67493381004ce83d25",
+  "publishedAt": "2026-11-12T10:21:59Z",
+  "releaseNotes": "Defender button label shortened to Refresh (NO: Oppdater). Includes FIX IT! repair page from .81. Built from tip 4e26085 (PR #17)."
 }
